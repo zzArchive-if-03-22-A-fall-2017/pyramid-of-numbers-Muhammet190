@@ -12,7 +12,7 @@ The goal of this assignment is to make you familiar with aggregate data types. W
 - terminal.
 
 ## Required Tasks
-As described in the [problem statement](http://htmlpreview.github.com/?assignment/html/index.html).
+As described in the [problem statement](http://htmlpreview.github.com/?https://github.com/if-03-22-prpr/if.03.22-03_pyramid-of-numbers/blob/master/assignment/html/index.html).
 
 ## Evaluation
 All coding assignments will get checked. Most common reasons that your assignment is marked down are:
